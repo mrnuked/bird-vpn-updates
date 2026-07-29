@@ -1,9 +1,7 @@
-# Bird VPN Updates
+# Compatibility update channel
 
-Официальный публичный канал стабильных и тестовых обновлений Bird VPN by Nukedo.
+This repository is retained only so earlier installations can migrate to the
+current Nuke Net release.
 
-- `stable.json` — сведения о текущей доступной версии.
-- Установщики публикуются только в GitHub Releases.
-- Контрольная сумма SHA-256 позволяет проверить целостность установщика.
-
-Исходный код приложения хранится отдельно и не публикуется в этом репозитории.
+New releases are published at
+[mrnuked/nuke-net-updates](https://github.com/mrnuked/nuke-net-updates).
